@@ -1,6 +1,10 @@
 [https://colab.research.google.com/drive/1KdrySNKz6R4Rs9V-P125m4Z0u3224X8q?usp=drive_link](https://colab.research.google.com/drive/1XHwf0vYdoOsm2TFxPHj0iWhWNq9PSzIt?usp=sharing)
 
 # Laboratory-Work-5-Activity-Comparative-Analysis
+# GDrive 
+https://drive.google.com/drive/folders/1GIISzkPYZPqb6LOD1wlDbxgLJq7nI18o?usp=drive_link
+https://drive.google.com/drive/folders/1GIISzkPYZPqb6LOD1wlDbxgLJq7nI18o?usp=sharing
+
 
 # Three Models: https://drive.google.com/drive/folders/1GIISzkPYZPqb6LOD1wlDbxgLJq7nI18o?usp=drive_link
 GUIDE QUESTIONS (FINAL REFLECTION)
